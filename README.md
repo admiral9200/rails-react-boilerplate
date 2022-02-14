@@ -23,7 +23,7 @@
 - $ npm install
 - $ bundle install
 - $ rails db:migrate
-- $ rails db:seeds
+- $ rails db:seed
 ```
 - Open website
 ```
